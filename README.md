@@ -1,3 +1,8 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed78bd0a-54b0-4150-b194-9d273d8b6012" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/150832eb-fc4d-4f92-840a-e741a243708b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b8d1a034-412a-45f7-a801-b00df1af0239" />
+
+
 # Personal Task Manager
 
 A Laravel-based Personal Task Manager developed for the WST21 Mini Project.
